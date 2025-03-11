@@ -1,0 +1,14 @@
+Exercício 1:
+
+Abstração: Ocultar detalhes complexos e mostrar apenas as informações essenciais. Exemplo: A classe Livro pode ter uma propriedade titulo e autor, enquanto a implementação interna dos métodos de busca no catálogo é abstraída.
+Encapsulamento: Esconder o acesso direto a dados e controlar a interação através de métodos. Exemplo: Na classe Bibliotecário, as informações do usuário são acessadas apenas por métodos específicos, como emprestarLivro().
+Herança: Uma classe herda propriedades e comportamentos de outra. Exemplo: A classe Bibliotecário pode herdar de Usuário para reutilizar propriedades como nome e endereco.
+Polimorfismo: Um método pode ser usado de diferentes formas. Exemplo: O método realizarEmprestimo() pode ser utilizado tanto por Usuário quanto por Bibliotecário, mas com comportamentos diferentes.
+
+
+Exercício 2:
+
+POO: Foca em objetos e suas interações. Vantagens: Reutilização de código, maior organização. Desvantagens: Maior complexidade no início e maior uso de memória.
+Programação Funcional: Foca em funções puras e imutabilidade. Vantagens: Código mais conciso e fácil de entender. Desvantagens: Difícil de entender e menos flexível em certos contextos.
+Exercício 3:
+
